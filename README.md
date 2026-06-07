@@ -61,8 +61,8 @@ I’m deeply focused on **clean code, responsive design, and efficient backend a
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Joao-Vitor-Passos&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Joao-Vitor-Passos&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Joao-Vitor-Passos&show_icons=true&theme=tokyonight&cache_seconds=86400&v=1" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Vitor-Passos&layout=compact&theme=tokyonight&cache_seconds=86400&v=1" alt="Top Languages" />
 </p>
 
 ---
